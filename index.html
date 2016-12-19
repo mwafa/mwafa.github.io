@@ -1,7 +1,177 @@
-<!DOCUMENT html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://designmodo.github.io/Flat-UI/dist/css/vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="http://designmodo.github.io/Flat-UI/dist/css/flat-ui.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-hello world!
+
+<style>
+.container-fluid{
+	padding: 20px 40px ;
+}
+.bg-1{
+	background-color: #1abc9c;
+}
+.bg-2{
+	background-color: #2c3e50;
+}
+.bg-3{
+	background-color : #8e44ad;
+}
+.bg-4 {
+	background-color:#2980b9;
+}
+.bg-5{
+	background-color:#7f8c8d;
+}
+.cl-1 {
+	color: white;
+}
+.fill{
+	width: 100%
+}
+.fotoku {
+	padding: 3px;
+	border: solid white 2px;
+}
+.header{
+	padding-top:160px;
+	color: white;
+	margin-bottom: 0px;
+}
+.tile-title{
+	border-bottom: solid 2px white;
+	padding-bottom : 2px;
+}
+.slideanim {visibility:hidden;}
+.slide {
+    /* The name of the animation */
+    animation-name: slide;
+    -webkit-animation-name: slide;
+    /* The duration of the animation */
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    /* Make the element visible */
+    visibility: visible;
+}
+
+/* Go from 0% to 100% opacity (see-through) and specify the percentage from when to slide in the element along the Y-axis */
+@keyframes slide {
+    0% {
+        opacity: 0;
+        transform: translateY(70%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0%);
+    }
+}
+@-webkit-keyframes slide {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(70%);
+    }
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+    }
+}
+.navbar{
+	margin-bottom:0px;
+	border-radius:0px;
+}
+</style>
+
+
+
+<div class='jumbotron text-center bg-4 header'>
+	<h4> BIO</h4>
+</div>
+
+<div class='container-fluid bg-2'>
+	<div class='row text-center'>
+		<div class='col-sm-4'>
+			<img class='fill  img-circle fotoku' src='https://scontent-sin6-1.cdninstagram.com/t51.2885-15/e35/15306557_1286417371422274_6700896104206041088_n.jpg?ig_cache_key=MTQwNTM4MDEyNTgyMTgyNDkzNg%3D%3D.2' class='img-responsive'/>
+		</div>
+		<div class='col-sm-8 cl-1 '>
+			<h3> MUHAMMAD WAFA</h3>
+			<p>Saya adalah anak gembala selalu riang serta gembira, karena aku anak gembala .
+			</p>
+			<div class='btn btn-inverse btn-lg'>
+				<span>Get Started</span>
+			</div>
+		</div>
+	</div>
+</div>
+<div class='container-fluid'>
+<div class='row'>
+	<div class='col-sm-4'>
+		<div id='slideanim' class='slideanim tile '>
+			<h3 class='tile-title'>HOBI</h3>
+			<span>Programing</span>
+				<div class="progress">
+            			<div class="progress-bar" style="width: 80%;"></div></div>
+			<span>Elektronik</span>
+				<div class="progress">
+            <div class="progress-bar" style="width: 75%;"></div></div>
+			<span>Musik</span>
+			<div class="progress">
+            <div class="progress-bar" style="width: 60%;"></div>
+			</div>
+		</div>
+	</div>
+	<div class='col-sm-4'>
+		<div id='slideanim' class='slideanim tile '>
+			<h3 class='tile-title'>KEAHLIAN</h3>
+			<span>html</span>
+			<div class="progress">
+            			<div class="progress-bar" style="width: 75%;"></div>
+			</div>
+			<span>CSS</span>
+			<div class="progress">
+            			<div class="progress-bar" style="width: 65%;"></div>
+			</div>
+			<span>Bootstrap</span>
+			<div class="progress">
+            			<div class="progress-bar" style="width: 50%;"></div>
+			</div>
+			<span>PHP</span>
+			<div class="progress">
+            			<div class="progress-bar" style="width: 75%;"></div>
+			</div>
+		</div>
+	</div>
+	<div id='slideanim' class='slideanim col-sm-4 '>
+		<div class='tile'>
+			<h3 class='tile-title'>KEAHLIAN</h3>
+			<span>html</span>
+			<div class="progress">
+            <div class="progress-bar" style="width: 75%;"></div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<div class='container-fluid bg-2 cl-1 text-center'>
+	oke
+</div>
 </body>
+
+<script>
+$(window).scroll(function() {
+  $(".slideanim").each(function(){
+    var pos = $(this).offset().top;
+
+    var winTop = $(window).scrollTop();
+    if (pos < winTop + 600) {
+      $(this).addClass("slide");
+    }
+  });
+});
+</script> 
