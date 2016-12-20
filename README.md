@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Flat UI Free](http://designmodo.github.io/Flat-UI/)
 
 [![Join the chat at https://gitter.im/designmodo/Flat-UI](https://badges.gitter.im/designmodo/Flat-UI.svg)](https://gitter.im/designmodo/Flat-UI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -137,3 +138,6 @@ Facebook: <http://www.facebook.com/designmodo>
 RSS: <http://feeds.feedburner.com/designmodo>
 
 Google+: <https://www.google.com/+DesignModo>
+=======
+[Wafa's Website Using Bootstrap]
+>>>>>>> 0e88bd505569d2fc11ce32f09d9ece972f9acdbd
