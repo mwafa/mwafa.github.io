@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Test Page
+layout&#58 post
+title&#58 Test Page
 ---
 
 Test code:
