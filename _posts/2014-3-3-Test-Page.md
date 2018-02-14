@@ -3,6 +3,8 @@ layout: post
 title: Test Page
 ---
 
+
+
 ```python
 from PIL import ImageGrab
 import numpy as np
@@ -59,6 +61,6 @@ cv2.destroyAllWindows()
 Loremipsum dolosaldfjalsdfk
 
 Test:
-$$-b^e \pm \sqrt{b^2-4ac}\over 2a$$
+$$-b^2 \pm \sqrt{b^2-4ac}\over 2a$$
 
 ---
