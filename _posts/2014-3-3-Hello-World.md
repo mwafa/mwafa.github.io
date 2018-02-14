@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Test Page
-categories: Test
 ---
 
 Test code:
