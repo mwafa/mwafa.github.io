@@ -1,7 +1,7 @@
 ---
 layout: post
-title: You're up and running!
-categories: test
+title: Test Page
+categories: Test
 ---
 
 Test code:
