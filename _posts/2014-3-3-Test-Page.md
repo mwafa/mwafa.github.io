@@ -1,6 +1,7 @@
 ---
-layout&#58 post
-title&#58 Test Page
+layout: post
+title: Test Page
+categories: test
 ---
 
 
