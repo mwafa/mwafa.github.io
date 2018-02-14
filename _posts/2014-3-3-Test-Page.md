@@ -3,6 +3,10 @@ layout: post
 title: Test Page
 ---
 
+```python
+x = 12
+
+```
 
 Loremipsum dolosaldfjalsdfk
 
