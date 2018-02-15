@@ -10,6 +10,7 @@ title: KSBI - Perancangan Daur Hidup Sistem
 + [Latar Belakang](#latar-belakang)
 + [Pengukuran Keselamatan](#pengukuran-keselamatan)
 
+***
 
 ### Pendidikan dan Pola Pikir
 
@@ -36,6 +37,8 @@ Bagaimanapun, ketika sesorang telah masuk di dunia perkuliahan, maka seseorang t
 Secara umum bagaimana manusia berfikir itu ada 2 macam yaitu:
 1. Berfikir _orang awam_
 2. Berfikir _Intelektual_
+
+#### Berfikir Intelektual
 
 Mari kita berangkat dari sebuah pertanyaan sederhana.
 
@@ -69,7 +72,7 @@ Sehingga, di masa depan manusia dapat selamat dan terhindar dari bahaya.
 
 ## Pengukuran Keselamatan
 
-Mari kita ingat kembali [pertanyaan tentang pesawat](#kemampuan-seseorang) diatas.
+Mari kita ingat kembali [pertanyaan tentang pesawat](#berfikir-intelektual) diatas.
 Coba berfikir kritis.
 
 > Mengapa pesawat tidak berbahaya?
