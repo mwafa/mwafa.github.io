@@ -3,10 +3,14 @@ layout: post
 title: KSBI - Perancangan Daur Hidup Sistem
 ---
 
+__KSBI__ adalah Keselamatan Sistem Berbasis Instrumentasi.
+Kali ini, membahas tentang bagaimana tentang pola pikir dan konsep keselamatan.
+
 ###### Table of Content:
 
 + [Pendidikan dan Pola Pikir](#pendidikan-dan-pola-pikir)
   * [Kemampuan Seseorang](#kemampuan-seseorang)
+  * [Berfikir Intelektual](#berfikir-intelektual)
 + [Latar Belakang](#latar-belakang)
 + [Pengukuran Keselamatan](#pengukuran-keselamatan)
 
