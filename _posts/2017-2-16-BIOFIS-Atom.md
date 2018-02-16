@@ -5,6 +5,17 @@ title: BIOFIS - Atoms
 
 Untuk mengetahui sudah berapa lama atom di dalam tubuh saya ada, maka saya perlu tahu atom apa saja yang ada di tubuh saya.
 
+---
+
+### Table of Contents
++ [Atom dalam Tubuh Manusia](#atom-dalam-tubuh-manusia)
++ [Sejarah Atom](#sejarah-atom)
++ [Element Genesis](#element-genesis)
+  * [Nucleosynthesis of the light elements](#nucleosynthesis-of-the-light-elements)
+  * [The nucleosynthesis of heavy elements](#the-nucleosynthesis-of-heavy-elements)
++ [Umur Elemen pada Tubuh](#umur-elemen-pada-tubuh)  
+---
+
 ## Atom Dalam Tubuh Manusia
 
 Manusia sebagian besar terdiri dari Oksigen, Kabron dan Hidrogen.
@@ -51,13 +62,13 @@ Sehingga, kemungkinan besar unsur pada tubuh manusia berasal dari bintang-bintan
 
 ## Referensi:
 
-https://education.jlab.org/qa/mathatom_04.html
-http://www.foresight.org/Nanomedicine/Ch03_1.html
-http://www.independent.co.uk/news/science/what-the-human-body-is-made-of-a7173301.html
-https://en.wikipedia.org/wiki/Composition_of_the_human_body
++ https://education.jlab.org/qa/mathatom_04.html
++ http://www.foresight.org/Nanomedicine/Ch03_1.html
++ http://www.independent.co.uk/news/science/what-the-human-body-is-made-of-a7173301.html
++ https://en.wikipedia.org/wiki/Composition_of_the_human_body
 
-http://www2.latech.edu/~upali/chem481/Chem481c1.htm
-http://www2.latech.edu/~upali/chem481/Chem481c1.pdf
-http://umich.edu/~gs265/bigbang.htm
++ http://www2.latech.edu/~upali/chem481/Chem481c1.htm
++ http://www2.latech.edu/~upali/chem481/Chem481c1.pdf
++ http://umich.edu/~gs265/bigbang.htm
 
 ---
