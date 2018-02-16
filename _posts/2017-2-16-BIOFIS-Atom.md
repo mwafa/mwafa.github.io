@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Atoms
+title: BIOFIS - Atoms
 ---
 
 Untuk mengetahui sudah berapa lama atom di dalam tubuh saya ada, maka saya perlu tahu atom apa saja yang ada di tubuh saya.
@@ -9,10 +9,10 @@ Untuk mengetahui sudah berapa lama atom di dalam tubuh saya ada, maka saya perlu
 
 Manusia sebagian besar terdiri dari Oksigen, Kabron dan Hidrogen.
 Menurut [Robert A. Freitas Jr.](http://www.foresight.org/Nanomedicine/Ch03_1.html) untuk seorang laki-laki dengan berat 70 Kg memiliki.
-Tubuh manusia terdiri dari sekitar 7 x 10^27 atom.
-Hydrogen sebanyak 4.22 x 10^27
-Oxygen sebanyak 1.61 x 10^27
-Carbon sebanyak 8.03 x 10^26
+Tubuh manusia terdiri dari sekitar $$7 \times 10^{27}$$ atom.
+Hydrogen sebanyak $$4.22 \times 10^{27}$$
+Oxygen sebanyak $$1.61 \times 10^{27}$$
+Carbon sebanyak $$8.03 \times 10^{26}$$
 
 ## Sejarah Atom
 
@@ -26,7 +26,7 @@ Di Matahari dan bintang serupa, Hidrogen sedang menyatu dengan Helium. Pada taha
 ### Element Genesis
 
 #### Nucleosynthesis of the light elements
-.
+
 Beberapa saat setelah big bang, unsur-unsur ringan (H, He dan Li) diciptakan.
 Kemudian terbentuk pula atom-atom lain yang lebih berat seperti B dan Be akibat adanya sinar kosmik dari big bang.
 Karena adanya perluasan alam semesta yang cepat serta penurunan suhu dan densitas secara bersamaan, unsur-unsur ini tidak di produksi banyak.
