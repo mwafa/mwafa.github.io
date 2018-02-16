@@ -10,9 +10,10 @@ Untuk mengetahui sudah berapa lama atom di dalam tubuh saya ada, maka saya perlu
 Manusia sebagian besar terdiri dari Oksigen, Kabron dan Hidrogen.
 Menurut [Robert A. Freitas Jr.](http://www.foresight.org/Nanomedicine/Ch03_1.html) untuk seorang laki-laki dengan berat 70 Kg memiliki.
 Tubuh manusia terdiri dari sekitar $$7 \times 10^{27}$$ atom.
-Hydrogen sebanyak $$4.22 \times 10^{27}$$
-Oxygen sebanyak $$1.61 \times 10^{27}$$
-Carbon sebanyak $$8.03 \times 10^{26}$$
+
++ Hydrogen sebanyak $$4.22 \times 10^{27}$$
++ Oxygen sebanyak $$1.61 \times 10^{27}$$
++ Carbon sebanyak $$8.03 \times 10^{26}$$
 
 ## Sejarah Atom
 
@@ -46,6 +47,7 @@ Atom penyusun  terbentuk pada bintang-bintang pada awal alam semesta kemudan ter
 Termasuk unsur yang ada di bumi.
 Sehingga, kemungkinan besar unsur pada tubuh manusia berasal dari bintang-bintang pada awal alam semesta tercipta.
 
+---
 
 ## Referensi:
 
@@ -57,3 +59,5 @@ https://en.wikipedia.org/wiki/Composition_of_the_human_body
 http://www2.latech.edu/~upali/chem481/Chem481c1.htm
 http://www2.latech.edu/~upali/chem481/Chem481c1.pdf
 http://umich.edu/~gs265/bigbang.htm
+
+---
