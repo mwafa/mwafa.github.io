@@ -14,6 +14,7 @@ Untuk mengetahui sudah berapa lama atom di dalam tubuh saya ada, maka saya perlu
   * [Nucleosynthesis of the light elements](#nucleosynthesis-of-the-light-elements)
   * [The nucleosynthesis of heavy elements](#the-nucleosynthesis-of-heavy-elements)
 + [Umur Elemen pada Tubuh](#umur-elemen-pada-tubuh)  
+
 ---
 
 ## Atom Dalam Tubuh Manusia
