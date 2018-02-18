@@ -77,13 +77,13 @@ Sehingga, tidak dapat melihat dengan jelas.
 **Retina** merupakan bagian dimana bayangan ditangkap yang kemudian dikirimkan ke otak melalui saraf. 
 Pada retina, terdapat dua jenis sel yaitu _sel batang_ dan _sel kerucut_.
 
-### Sel Batang
+#### Sel Batang
 
 Sel ini lebih cenderung sensitif terhadap gelap terang (Intensitas).
 Sel ini biasanya sangat berguna ketika keadaan sedikit cahaya agar manusia tetap dapat melihat.
 Oleh karena itu, ketika keadaan gelap manusia sulit membedakan warna.
 
-### Sel Kerucut
+#### Sel Kerucut
 
 Sel ini sensitif terhadap gelombang elektromagnetik dibandingkan dengan intensitas.
 Sehingga, dengan adanya sel ini manusia dapat melihat berbagai warna.
