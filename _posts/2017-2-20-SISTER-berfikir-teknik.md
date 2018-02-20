@@ -69,12 +69,12 @@ Dari karakteristik tersebut, kita bisa mengetahui komponen apa saja yang cocok y
 
 ---
 
-Bagaimana seorang _isinyur_ berfikir adalah dengan __System Engineering_.
+Bagaimana seorang _isinyur_ berfikir adalah dengan _System Engineering_.
 Semua dimulai dari user yang akan menggunakan sistem yang akan dibuat.
 Disini juga letak perbedaan utama antara _teknik_ dan _ilmu sains murni_.
 _Teknik_ semuanya dimulai dari tuntutan pengguna sehingga dapat merancang dan membangun sebuah sistem.
 Sendangakan _sains murni_, berawal dari mengenal komponen-komponen kemudan mengembangkanya atau mengembangkan ilmu-ilmu tanpa memandang user.
 
-Berikut ini adalah diagram bagaimana konsep __anak teknik berfikir_.
+Berikut ini adalah diagram bagaimana konsep __anak teknik berfikir__.
 
 ![Teknik Diagram](/images/SE-1.jpg)
