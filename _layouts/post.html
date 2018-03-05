@@ -1,6 +1,29 @@
 ---
 layout: default
 ---
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@id": "https://github.com/mwafa",
+        "name": "Muhammad Wafa",
+        "image": "https://scontent-sit4-1.cdninstagram.com/t51.2885-19/s320x320/15043466_183082972156674_2094895703355555840_a.jpg"
+      }
+    },{
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@id": "{{ page.permalink }}",
+        "name": "{{ page.title }}"
+      }
+    }
+    ]
+  }
+  </script>
 
 <article class="post">
   <h1>{{ page.title }}</h1>
