@@ -1,74 +1,82 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% include meta.html %}
+<head>
+  <meta name="google-site-verification" content="2GLDrCb97VF2WplnbMoE8baggN2wFW8quCAv8t-H-J4" />
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    <!--[if lt IE 9]>
+  {% include meta.html %}
+
+  <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <link rel="icon" href="https://scontent-sit4-1.cdninstagram.com/t51.2885-19/s320x320/15043466_183082972156674_2094895703355555840_a.jpg">
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <link rel="icon" href="https://scontent-sit4-1.cdninstagram.com/t51.2885-19/s320x320/15043466_183082972156674_2094895703355555840_a.jpg">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml"
+  />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+  <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+</head>
 
-  <body>
-      <script type="application/ld+json">
-        {
-          "@context": "http://schema.org",
-          "@type": "Person",
-          "email": "mailto:wafax.4@gmail.com",
-          "image": "https://avatars0.githubusercontent.com/u/19171729?s=460&v=4",
-          "name": "Muhammad Wafa",
-          "birthDate": "1997-08-12",
-          "telephone": "(+62) 8228-1199-234 ",
-          "url": "https://www.linkedin.com/in/muhammad-wafa-587440126/",
-          "sameAs": [
-            "http://www.facebook.com/muhammad.wafa.18",
-            "https://www.instagram.com/edogawafa/",
-            "https://www.linkedin.com/in/muhammad-wafa-587440126/"
-          ],
-          "gender": "Male",
-          "address": {
-            "@type": "PostalAddress",
-            "addressRegion": "Yogyakarta",
-            "addressCountry": "Indonesia"
-          }
-        }
-        </script>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+<body>
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "email": "mailto:wafax.4@gmail.com",
+      "image": "https://avatars0.githubusercontent.com/u/19171729?s=460&v=4",
+      "name": "Muhammad Wafa",
+      "birthDate": "1997-08-12",
+      "telephone": "(+62) 8228-1199-234 ",
+      "url": "https://www.linkedin.com/in/muhammad-wafa-587440126/",
+      "sameAs": [
+        "http://www.facebook.com/muhammad.wafa.18",
+        "https://www.instagram.com/edogawafa/",
+        "https://www.linkedin.com/in/muhammad-wafa-587440126/"
+      ],
+      "gender": "Male",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Yogyakarta",
+        "addressCountry": "Indonesia"
+      }
+    }
+  </script>
+  <div class="wrapper-masthead">
+    <div class="container">
+      <header class="masthead clearfix">
+        <a href="{{ site.baseurl }}/" class="site-avatar">
+          <img src="{{ site.avatar }}" />
+        </a>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+        <div class="site-info">
+          <h1 class="site-name">
+            <a href="{{ site.baseurl }}/">{{ site.name }}</a>
+          </h1>
+          <p class="site-description">{{ site.description }}</p>
+        </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
+        <nav>
+          <a href="{{ site.baseurl }}/">Blog</a>
+          <a href="{{ site.baseurl }}/about">About</a>
+        </nav>
+      </header>
     </div>
+  </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
+  <div id="main" role="main" class="container">
+    {{ content }}
+  </div>
+
+  <div class="wrapper-footer">
+    <div class="container">
+      <footer class="footer">
+        {% include svg-icons.html %}
+      </footer>
     </div>
+  </div>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
+  {% include analytics.html %}
+</body>
 
-    {% include analytics.html %}
-  </body>
 </html>
