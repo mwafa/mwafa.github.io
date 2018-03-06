@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WEB:: Bermain dengan Warna
+title: 'WEB: Bermain dengan Warna'
 ---
 
 Dalam html, warna dapat ditulis dengan beberapa cara diantaranya adalah dengan menggunakan hex contohnya `#ff00ff`, menggunakan nama warna contohnya `red` dan terakhir menggunakan __RGB__ misalnya `rgb(100,100,100)`.
