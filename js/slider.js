@@ -16,7 +16,6 @@ warna2.forEach(function(slider){
         const a = document.querySelector("input[name='merah'][d='dua']").value;
         const b = document.querySelector("input[name='hijau'][d='dua']").value;
         const c = document.querySelector("input[name='biru'][d='dua']").value;
-        console.log(r,g,b);
         document.body.style.backgroundColor = `rgb(${a},${b},${c})`;
     })
 });
