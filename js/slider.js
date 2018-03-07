@@ -1,8 +1,8 @@
 const warna = document.querySelectorAll("input[d='satu']");
 const warna2 = document.querySelectorAll("input[d='dua']");
 
-warna.forEach(function(){
-    this.addEventListener("input",function(){
+warna.forEach(function(slider){
+    slider.addEventListener("input",function(){
         const r = document.querySelector("input[name='merah'][d='satu']").value;
         const g = document.querySelector("input[name='hijau'][d='satu']").value;
         const b = document.querySelector("input[name='biru'][d='satu']").value;
@@ -11,8 +11,8 @@ warna.forEach(function(){
     })
 });
 
-warna2.forEach(function(){
-    this.addEventListener("input",function(){
+warna2.forEach(function(slider){
+    slider.addEventListener("input",function(){
         const a = document.querySelector("input[name='merah'][d='dua']").value;
         const b = document.querySelector("input[name='hijau'][d='dua']").value;
         const c = document.querySelector("input[name='biru'][d='dua']").value;

@@ -66,8 +66,8 @@ Fungsinya yaitu mengambil setiap elemen dan mengambil nilainya kemudian nilai it
 
 ```javascript
 
-warna.forEach(function(){
-    this.addEventListener("input",function(){
+warna.forEach(function(slider){
+    slider.addEventListener("input",function(){
         const r = document.querySelector("input[name='merah']").value;
         const g = document.querySelector("input[name='hijau']").value;
         const b = document.querySelector("input[name='biru']").value;
