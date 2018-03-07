@@ -85,9 +85,11 @@ R <input d="dua" type="range" name="merah" value="255" min="1" max="255"><br>
 G <input d="dua" type="range" name="hijau" value="255" min="1" max="255" ><br>
 B <input d="dua" type="range" name="biru"  value="255"  min="1" max="255"><br>
 
+---
+
 #### Video
 
-Untuk lebih jelas bisa lihat di channel youtube pak __Sandika Galih__.
+Untuk lebih jelas bisa lihat di channel youtube pak __Sandhika Galih__.
 
 <script src="https://apis.google.com/js/platform.js"></script>
 
@@ -96,3 +98,5 @@ Untuk lebih jelas bisa lihat di channel youtube pak __Sandika Galih__.
 Link Video [Disini](https://www.youtube.com/watch?v=DLFqQ1SP8xU)
 
 <script src="/js/slider.js"/>
+
+---
