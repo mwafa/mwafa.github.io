@@ -58,7 +58,7 @@ Selanjutnya kita akan membuat kode __javascript__ untuk mengatur agar semua dapa
 Pertama, kita harus panggil elemen-elemenya dengan memanggil semua elemen dengan `type='range'`.
 
 ```javascript
-const warana = document.querySelectorAll("input[type='range']");
+const warna = document.querySelectorAll("input[type='range']");
 ```
 
 _Nah_, sekarang kita buat agar jika masing-masing elemen diberi input (_slider digeser_) maka akan melakukan sebuah fungsi.
@@ -68,9 +68,9 @@ Fungsinya yaitu mengambil setiap elemen dan mengambil nilainya kemudian nilai it
 
 warna.forEach(function(){
     this.addEventListener("input",function(){
-        const r = document.querySelector("input[name='merah'][d='satu']").value;
-        const g = document.querySelector("input[name='hijau'][d='satu']").value;
-        const b = document.querySelector("input[name='biru'][d='satu']").value;
+        const r = document.querySelector("input[name='merah']").value;
+        const g = document.querySelector("input[name='hijau']").value;
+        const b = document.querySelector("input[name='biru']").value;
         console.log(r,g,b);
         document.body.style.backgroundColor = `rgb(${r},${g},${b})`;
     })
@@ -84,5 +84,15 @@ Hasilnya, __taraaaa.........__
 R <input d="dua" type="range" name="merah" value="255" min="1" max="255"><br>
 G <input d="dua" type="range" name="hijau" value="255" min="1" max="255" ><br>
 B <input d="dua" type="range" name="biru"  value="255"  min="1" max="255"><br>
+
+#### Video
+
+Untuk lebih jelas bisa lihat di channel youtube pak __Sandika Galih__.
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCkXmLjEr95LVtGuIm3l2dPg" data-layout="full" data-count="default"></div>
+
+Link Video [Disini](https://www.youtube.com/watch?v=DLFqQ1SP8xU)
 
 <script src="/js/slider.js"/>
