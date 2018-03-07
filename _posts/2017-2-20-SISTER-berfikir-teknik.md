@@ -29,7 +29,7 @@ Akhirnya, kita mengetahui apa kegunaan dari sistem pencernaan kita.
 
 Begitulah, bagaimana biasanya orang mempelajari seuatu.
 Cara berfikir ini, kita lakukan dalam mempelajari sesuatu.
-Tetapi, ini bukan merupakan _berfikir tekinik_.
+Tetapi, ini bukan merupakan _berfikir teknik_.
 
 ---
 
