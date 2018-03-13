@@ -4,7 +4,6 @@ title: KOMDAT - Phase Shift Keying
 ---
 
 
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -131,9 +130,9 @@ title: KOMDAT - Phase Shift Keying
     derau <input type="range" name="a" id="derau" min="0" max="100" value="0"><span id="nil2"></span><br>
     <input type="text" id="str" value="1010111"><br>
     <input type="checkbox" checked name="" id="digital"> Digital <br>
-    <input type="checkbox" checked name="" id="fsk"> PSK <br>
-    <input type="checkbox" name="" id="output"> Output <br>
-    <input type="checkbox" name="" id="isin"> Gelombang Pengurang <br>
+    <input type="checkbox" checked name="" id="fsk"> PSK Transmisi <br>
+    <input type="checkbox" name="" id="output"> Hasil Perkalian <br>
+    <input type="checkbox" name="" id="isin"> Gelombang <br>
     
 
 
