@@ -14,3 +14,7 @@ title: Convert Audio to Image
 
 <script src="https://unpkg.com/wavesurfer.js"></script>
 <script src="/js/wave.js">
+
+Kamu bisa convert audio menjadi Image Waveform.
+Caranya, pilih file lalu klik update Audio.
+Lalu, Download Imagenya.

@@ -8,7 +8,7 @@ const wavesurfer = WaveSurfer.create({
   responsive: true
 });
 
-wavesurfer.load('/images/sample.wav');
+wavesurfer.load('/images/sample.ogg');
 wavesurfer.play()
 document
   .getElementById("play")
